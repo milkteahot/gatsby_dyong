@@ -21,9 +21,9 @@ module.exports = {
       twitter: "https://twitter.com/",
     },
     locale: "en",
-    title: `Lovesome`,
-    description: `Love for what`,
-    author: `@rjh`,
+    title: `띠옹이네`,
+    description: `띠옹이의 작업 공간`,
+    author: `@dyong`,
   },
   plugins: [
     `gatsby-plugin-postcss`,
@@ -48,8 +48,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Lovesome`,
-        short_name: `rjh`,
+        name: `띠옹이네`,
+        short_name: `dyong`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#3182ce`,
