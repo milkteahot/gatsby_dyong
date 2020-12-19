@@ -1,6 +1,6 @@
-# gatsby_rjh
+# gatsby_dyong
 - Artist Website
 - Gatsby, Contentful(CMS), Netlify
-- use case: 
 
-# gatsby_dyong
+
+
